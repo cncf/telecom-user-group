@@ -20,5 +20,5 @@ Find your local number: https://zoom.us/u/acX94Wyyaj
 - **Next zoom call postponed to Monday, June 3rd at 8AM PT**
 - Join us for the **Kickoff meeting at KubeCon EU on Thursday, May 23 • 11:05am - 12:30pm** - [Intro + Deep Dive BoF: Telecom User Group and Cloud Native Network Functions (CNF) Testbed - Cheryl Hung, Dan Kohn, CNCF & Taylor Carpenter, Vulk Coop](https://sched.co/MSzj)
   - Slides for the kickoff meeting are [available](https://docs.google.com/presentation/d/1iAgzRp5eFv7LWmpR2u1Wy0LdhvB85SkKJBxXFSNH8XE/)
- 
+  - Notes from the kick-off meetign are [here](https://docs.google.com/document/d/16PNoIjnFpsF1zlIwogXAJNy-HmLH-LcwLkNmYK1xuE4/edit)
  
