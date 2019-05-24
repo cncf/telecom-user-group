@@ -3,7 +3,7 @@
 
 ## Meeting Time
 
-CNCF's Telecom User Group on the first and third Mondays of the month at 8AM PT (USA and Canada)
+CNCF's Telecom User Group on the [first](https://calendar.google.com/event?action=TEMPLATE&tmeid=NWYxZ3VudmM0bG03dDRmaDk2MWxlYjF2dmxfMjAxOTA2MDNUMTUwMDAwWiBiaWxsLm11bGxpZ2FuQGxvb2RzZS5jb20&tmsrc=bill.mulligan%40loodse.com&scp=ALL) and [third](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzhuMTZiNHU4b2RnODY2cDI1bW1qbmE5MGlfMjAxOTA2MTdUMTUwMDAwWiBiaWxsLm11bGxpZ2FuQGxvb2RzZS5jb20&tmsrc=bill.mulligan%40loodse.com&scp=ALL) Mondays of the month at 8AM PT (USA and Canada)
 
 Join Zoom Meeting:  https://zoom.us/j/297749799
 
