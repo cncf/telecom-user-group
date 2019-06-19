@@ -22,6 +22,9 @@ Find your local number: https://zoom.us/u/acX94Wyyaj
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
 
+## Mailing list
+[Request to join](https://lists.cncf.io/g/telecom-user-group/join) - note that work email addresses are required.
+
 ## Slack
 [https://slack.cncf.io/](https://slack.cncf.io/) - #tug
 
@@ -31,7 +34,7 @@ Upcoming and past meeting agenda/notes are [available](https://docs.google.com/d
 
 Tuesday, June 25 • 11:20 - 11:55am - [Intro + Deep Dive BoF: Telecom User Group and Cloud Native Network Functions (CNF) Testbed - Cheryl Hung, Dan Kohn, CNCF & Taylor Carpenter, Vulk Coop](https://sched.co/OBhN)
 
-
 ## Past Events:
 **Kickoff meeting at KubeCon EU on Thursday, May 23 • 11:05am - 12:30pm** - [Intro + Deep Dive BoF: Telecom User Group and Cloud Native Network Functions (CNF) Testbed - Cheryl Hung, Dan Kohn, CNCF & Taylor Carpenter, Vulk Coop](https://sched.co/MSzj)
-  - Slides for the kickoff meeting are [available](https://docs.google.com/presentation/d/1iAgzRp5eFv7LWmpR2u1Wy0LdhvB85SkKJBxXFSNH8XE/)
+- [Video](https://www.youtube.com/watch?v=zEIr1mq-81E)
+- [Slides](https://docs.google.com/presentation/d/1iAgzRp5eFv7LWmpR2u1Wy0LdhvB85SkKJBxXFSNH8XE/)
