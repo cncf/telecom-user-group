@@ -32,9 +32,11 @@ Upcoming and past meeting agenda/notes are [available](https://docs.google.com/d
 
 ### TUG + CNFs At Open Networking Summit EU 2019
 
- Tuesday, July 23 •  ONS EU 2019 Schedule Announcement
+Monday, September 23 • 08:45 - 10:15 - [Tutorial: Driving Telco Performance with the Cloud Native Network Function (CNF) Testbed - Sponsored by Cloud Native Computing Foundation (Pre-registration required)](https://sched.co/ScCA)
 
- TBD • Monday, Sept 23 - [Half-day Telecom User Group Event](https://events.linuxfoundation.org/events/open-networking-summit-europe-2019/)
+Monday, September 23 • 10:45 - 12:15 - [CNCF Telecom User Group Meeting](https://sched.co/Saoc)
+
+Wednesday, September 25 • 16:15 - 16:45 - [Panel Discussion: Embracing Cloud Native on the Path to 5G - Heather Kirksey, The Linux Foundation; Rabi Abdel, Vodafone; Lincoln Lavoie, UNH Interoperability Lab; Frederick Kautz, doc.ai; Taylor Carpenter, Vulk Coop](https://sched.co/SYwo)
 
  ### TUG + CNFs At KubeCon + CloudNativeCon NA 2019
 
