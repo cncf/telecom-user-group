@@ -32,7 +32,7 @@ Upcoming and past meeting agenda/notes are [available](https://docs.google.com/d
 
 ### TUG + CNFs At Open Networking Summit EU 2019
 
-Monday, September 23 • 08:45 - 10:15 - [Tutorial: Driving Telco Performance with the Cloud Native Network Function (CNF) Testbed - Sponsored by Cloud Native Computing Foundation (Pre-registration required)](https://sched.co/ScCA)
+Monday, September 23 • 08:45 - 10:15 - [Tutorial: Take a Test Drive with the Cloud Native Network Function (CNF) Testbed - Sponsored by Cloud Native Computing Foundation (Pre-registration required)](https://sched.co/ScCA)
 
 Monday, September 23 • 10:45 - 12:15 - [CNCF Telecom User Group Meeting](https://sched.co/Saoc)
 
