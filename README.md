@@ -22,6 +22,9 @@ Find your local number: https://zoom.us/u/acX94Wyyaj
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
 
+## Recordings
+TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.youtube.com/playlist?list=PLj6h78yzYM2MHITsQll62n8gj8mtxXbTq)
+
 ## Mailing list
 [Request to join](https://lists.cncf.io/g/telecom-user-group/join) - note that work email addresses are required.
 
