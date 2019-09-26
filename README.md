@@ -60,4 +60,4 @@ Tuesday, June 25 • 11:20 - 11:55am - [Intro + Deep Dive BoF: Telecom User Grou
 
 ## Adjacent communities
 
-CNCF TUG works together with lots of other communities. This page lists these communities and ways how to reach them. 
+CNCF TUG works together with lots of other communities. [This](adjacent-communities.md) page lists these communities and ways how to reach them. 
