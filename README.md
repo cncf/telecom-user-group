@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, September 16th at 11:00AM - 12:00PM UTC (7:00 - 8:00PM China Standard Time)**
+- **Next zoom call: Monday, October 7th at 3:00 - 4:00 PM UTC (8:00 - 9:00 AM Pacific Time) **
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -33,6 +33,14 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
+ ### TUG + CNFs At KubeCon + CloudNativeCon NA 2019
+
+Wednesday, November 20 • 3:20pm - 3:55pm - [Birds of a Feather: Telecom User Group - Cheryl Hung, Dan Kohn, Cloud Native Computing Foundation; & Taylor Carpenter, Vulk Coop](https://sched.co/Uakt)
+
+Thursday, November 21 • 4:25pm - 5:55pm - [Intro + Deep Dive: Cloud Native Network Function (CNF) Testbed](https://sched.co/UakA)
+
+## Past Events:
+
 ### TUG + CNFs At Open Networking Summit EU 2019
 
 Monday, September 23 • 08:45 - 10:15 - [Tutorial: Take a Test Drive with the Cloud Native Network Function (CNF) Testbed - Sponsored by Cloud Native Computing Foundation (Pre-registration required)](https://sched.co/ScCA)
@@ -40,15 +48,6 @@ Monday, September 23 • 08:45 - 10:15 - [Tutorial: Take a Test Drive with the C
 Monday, September 23 • 10:45 - 12:15 - [CNCF Telecom User Group Meeting](https://sched.co/Saoc)
 
 Wednesday, September 25 • 16:15 - 16:45 - [Panel Discussion: Embracing Cloud Native on the Path to 5G - Heather Kirksey, The Linux Foundation; Rabi Abdel, Vodafone; Lincoln Lavoie, UNH Interoperability Lab; Frederick Kautz, doc.ai; Taylor Carpenter, Vulk Coop](https://sched.co/SYwo)
-
- ### TUG + CNFs At KubeCon + CloudNativeCon NA 2019
-
- Thursday, September 5 • KubeCon NA 2019 Schedule Announcement
-
- Tuesday, Nov 19 • TBD - [Intro + Deep Dive BoF: Telecom User Group and Cloud Native Network Functions (CNF) Testbed - Cheryl Hung, Dan Kohn, CNCF & Taylor Carpenter, Vulk Coop](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/register/)
-
-
-## Past Events:
 
 ### CNFs At KubeCon + CloudNativeCon China 2019
 
