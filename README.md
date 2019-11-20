@@ -44,7 +44,7 @@ Monday, November 18 • 4:30pm - 6:30pm - [CNCF TUG & CNTT: Part 1](https://wiki
 
 Wednesday, November 20 • 3:20pm - 3:55pm - [Birds of a Feather: Telecom User Group - Cheryl Hung, Dan Kohn, Cloud Native Computing Foundation; & Taylor Carpenter, Vulk Coop](https://sched.co/Uakt)
 
-Wednesday, November 20 • 4pm - 6pm - [CNCF TUG & CNTT: Part 2](https://wiki.lfnetworking.org/display/LN/CNTT+-+CNCF+TUG+F2F+workshop+in+KubeCon+NA+2019#CNTT-CNCFTUGF2FworkshopinKubeConNA2019-Brainstormingagendaitems)
+Wednesday, November 20 • 4:30pm - 6:30pm - [CNCF TUG & CNTT: Part 2](https://wiki.lfnetworking.org/display/LN/CNTT+-+CNCF+TUG+F2F+workshop+in+KubeCon+NA+2019#CNTT-CNCFTUGF2FworkshopinKubeConNA2019-Brainstormingagendaitems)
   - Location: Meeting room 2, Upper level, SDCC
   - Details: AV in the room, set round tables, capacity 160
   - [Agenda](https://wiki.lfnetworking.org/display/LN/CNTT+-+CNCF+TUG+F2F+workshop+in+KubeCon+NA+2019#CNTT-CNCFTUGF2FworkshopinKubeConNA2019-Brainstormingagendaitems)
