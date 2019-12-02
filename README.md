@@ -34,7 +34,11 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
- ### TUG + CNFs At KubeCon + CloudNativeCon NA 2019
+TBD
+
+## Past Events:
+
+### TUG + CNFs At KubeCon + CloudNativeCon NA 2019
 
 Monday, November 18 • 4:30pm - 6:30pm - [CNCF TUG & CNTT: Part 1](https://wiki.lfnetworking.org/display/LN/CNTT+-+CNCF+TUG+F2F+workshop+in+KubeCon+NA+2019#CNTT-CNCFTUGF2FworkshopinKubeConNA2019-Brainstormingagendaitems) 
   - Location: Meeting room 17B, Mezzanine level, San Diego Convention Center
@@ -51,8 +55,6 @@ Wednesday, November 20 • 4pm - 6pm - [CNCF TUG & CNTT: Part 2](https://wiki.lf
   - [RSVP, space is limited](https://forms.gle/VahVc9WVPNGMdk9p9)
 
 Thursday, November 21 • 4:25pm - 5:55pm - [Intro + Deep Dive: Cloud Native Network Function (CNF) Testbed](https://sched.co/UakA)
-
-## Past Events:
 
 ### TUG + CNFs At Open Networking Summit EU 2019
 
