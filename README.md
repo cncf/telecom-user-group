@@ -17,8 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, December 2nd at 4:00 - 5:00 PM UTC (8:00 - 9:00 AM Pacific Time)**
-- No zoom call on Monday, November 18th due to [KubeCon NA 2019](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/)
+- **Next zoom call: Monday, December 16th at 11:00 - 12:00 UTC (7:00 - 8:00 PM China Standard Time)**
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
