@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, December 16th at 11:00 - 12:00 UTC (7:00 - 8:00 PM China Standard Time)**
+- **Next zoom call: Monday, January 6th at 16:00 - 17:00 UTC (8:00 - 9:00 AM Pacific Time)**
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
