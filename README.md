@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, January 6th at 16:00 - 17:00 UTC (8:00 - 9:00 AM Pacific Time)**
+- **Next zoom call: Monday, January 20th at 11:00 - 12:00 UTC (7:00 - 8:00 AM China Standard Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -33,7 +33,7 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-TBD
+### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020 - TBD](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/program/schedule-at-a-glance/)
 
 ## Past Events:
 
