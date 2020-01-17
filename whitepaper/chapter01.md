@@ -66,9 +66,9 @@ The orchestration layer is tasked with composing, decomposing, and reshaping or 
 
 In cloud native systems, the atomic unit of deployment is the container, on an immutable and decoupled compute environment that nearly completely abstracts function from the underlying physical infrastructure and network architecture. At present, the most commonly used container environment is an OCI-compliant implementation. A container is different than a Virtual Machine (VM), which was the initial base unit of cloud computing. A VM hosts a Guest OS capable of delivering a service's required compute and networking. This guest runs on top of a hypervisor consuming the virtual infrastructure and orchestration it provides. In contrast, containers run on top of a shared Host OS (with a shared kernel) kernel. This distinction is key because containerisation enables immutability, disposability and resource efficiency in ways that are not easily achievable with VMs.
 
-For Kubernetes specifically, the atomic unit of management is a PodOD. A PodOD is a set of containers co-located in the same or different host and sharing the same Linux networking namespace.  For telco (and other) cloud native apps, the PodOD is the basic building block of deployment, scaling operations, and upgrades.
+For Kubernetes specifically, the atomic unit of management is a Pod. A Pod is a set of containers co-located in the same or different host and sharing the same Linux networking namespace.  For telco (and other) cloud native apps, the Pod is the basic building block of deployment, scaling operations, and upgrades.
 
-Cloud native applications consist of sets of cloud native microservices. The configuration of these microservices is not changed after deployment (note, this does allow for changes in application data such as "add a new user"). New features for a cloud native application and the underlying PodODs are rolled out as new artefacts and new configuration. Cloud native systems are configured declaratively. This means that the system configuration declares “what” a loosely coupled system should look like, not ”how” the system should be created. The “how” of the application is determined by the tooling (e.g. the orchestrator, operators, and CRDs).
+Cloud native applications consist of sets of cloud native microservices. The configuration of these microservices is not changed after deployment (note, this does allow for changes in application data such as "add a new user"). New features for a cloud native application and the underlying Pods are rolled out as new artefacts and new configuration. Cloud native systems are configured declaratively. This means that the system configuration declares “what” a loosely coupled system should look like, not ”how” the system should be created. The “how” of the application is determined by the tooling (e.g. the orchestrator, operators, and CRDs).
 
 <a name="1.4"></a>
 ## 1.4 Cloud Native Network Functions
@@ -90,7 +90,7 @@ ALT4.8:
 >
 >The CNFs themselves, by nature of following cloud native principles, are also composable and can implement and facilitate more complex network functionality if needed.
 >
->A more complex network service example, which might be implemented using cloud native principles, is the LTE S1 protocol stack which connects an LTE RAN with an evolved packet core (EPC) and components which use the S1 protocol stack such as a Serving Gateway (S-GW). [ref. ETSI TS 136 410
+>A more complex network service example, which might be implemented using cloud native principles, is the LTE S1 protocol stack which connects an LTE RAN with an evolved packet core (EPC) and components which use the S1 protocol stack such as a Serving Gateway (S-GW). [ref. ETSI TS 136 410](https://www.etsi.org/deliver/etsi_ts/136400_136499/136410/09.01.01_60/ts_136410v090101p.pdf)
 
 <a name="1.5"></a>
 ## 1.5 Cloud Native for Telcos
