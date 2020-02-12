@@ -74,24 +74,13 @@ Cloud native applications consist of sets of cloud native microservices. The con
 <a name="1.4"></a>
 ## 1.4 Cloud Native Network Functions
 
-Three types of definitions:
-1. **Analogous**: This piece is *similar* to that piece
-1. **Contrasting**: This is the new way, this is the old way
-1. **Aliasing**: This piece *is* that piece
+A cloud native network function (CNF) is a cloud native application that implements or facilitates network functionality. A cloud native network function consists of one or more microservices, and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs and a “repeatable deployment process”.
 
-ALT4.6:
->A cloud native network function is a cloud native application that implements one or more Network Functions. A cloud native network function consists of one or more microservices, and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs and a “repeatable deployment process”. Network Functions in the telecommunications context are defined by standards (3GPP) when it comes to functional scope (e.g. S-GW) and interfaces (e.g. S1).
->
->Note: ETSI defines a Network Function as “a functional block within a network infrastructure”, such functional block - similarly to a cloud native network function - can correspond to one or more 3GPP defined network functions.
+An example of a simple CNF is a packet filter which implements a single piece of network functionality as a microservice. A firewall is an example of a CNF which may be composed of more than one microservice.
 
-ALT4.8:
->A cloud native network function is a cloud native application that implements or facilitates network functionality. A cloud native network function consists of one or more microservices, and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs and a “repeatable deployment process”.
->
->An example of a simple CNF is a packet filter which implements a single piece of network functionality as a microservice. A firewall is an example of a CNF which may be composed of more than one microservice.
->
->The CNFs themselves, by nature of following cloud native principles, are also composable and can implement and facilitate more complex network functionality if needed.
->
->A more complex network service example, which might be implemented using cloud native principles, is the LTE S1 protocol stack which connects an LTE RAN with an evolved packet core (EPC) and components which use the S1 protocol stack such as a Serving Gateway (S-GW). [ref. ETSI TS 136 410](https://www.etsi.org/deliver/etsi_ts/136400_136499/136410/09.01.01_60/ts_136410v090101p.pdf)
+The CNFs themselves, by nature of following cloud native principles, are also composable and can implement and facilitate more complex network functionality if needed.
+
+CNFs and cloud native principles can be used when implementing applications and network infrastructure which needs to meet standards such as [3GPP](https://en.wikipedia.org/wiki/3GPP). For example a [Evolved Packet Core's (EPC)](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)) [Serving Gateway](https://en.wikipedia.org/wiki/System_Architecture_Evolution#SGW_(Serving_Gateway)) could be implemented as a cloud native application and support all 3GPP requirements (eg. S1 protocol stack) allowing integration with other [EPC services](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)).CNFs and cloud native principles can be used when implementing applications and network infrastructure which needs to meet standards such as 3GPP. For example a [Evolved Packet Core's (EPC)](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)) [Serving Gateway](https://) could be implemented as a cloud native application and support all 3GPP requirements (eg. S1 and S11 protocol stacks) allowing integration with other [EPC services](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)).
 
 <a name="1.5"></a>
 ## 1.5 Cloud Native for Telcos
