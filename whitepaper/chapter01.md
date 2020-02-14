@@ -21,7 +21,7 @@ Basic tenets and end users suggestions on how cloud native design and principles
 <a name="1.1"></a>
 ## 1.1 Introduction
 
-There has been a steady increase in the adoption of cloud native technologies to build infrastructure and run workloads across the board, to the point that it's now the defacto choice for enterprise and IT. It makes perfect sense that the Telecom industry wants to benefit in a similar way with it's platforms, networks and telephony applications.
+There has been a steady increase in the adoption of cloud native technologies to build infrastructure and run workloads across the board, to the point that it's becoming the defacto choice for enterprise and IT. It then makes perfect sense for the Telecom industry to follow in order to benefit in a similar way with it's platforms, networks and telephony applications. 
 
 This journey to cloud native telecom environments has already begun. In fact, if you use voicemail on a wireless network powered by Bell Canada, your message queue is officially cloud native. In 2019, Bell Canada ported its voicemail network functions over to a container-based architecture running on top of a Kubernetes orchestration layer alongside its production instance of the ONAP architecture. Voicemail is one of a number of functions that Bell Canada has or will be migrating to Cloud Native Network Functions (CNFs). “The main driver behind cloud native for Bell Canada is service availability, namely, how can we leverage cloud native principles to make sure our services are more agile, more flexible, and more resilient?,” explains Daniel Bernier, a Senior Technical Architect at Bell Canada and a member of Cloud Native Computing Foundation’s (CNCF) Telecom User Group (TUG).
 
@@ -88,7 +88,7 @@ CNFs and cloud native principles can be used when implementing applications and 
 <a name="1.5.1"></a>
 ### 1.5.1 A Brief History of Virtualisation for Telcos
 
-Until the 1990’s  1990s, most functionality and applications for telecommunications resided primarily in physical hardware (aka ‘boxes’). While software powered these systems, the software functioned more like firmware and was not easy to abstract and run on multiple platforms in virtual environments.
+Until the 1990’s, most functionality and applications for telecommunications resided primarily in physical hardware (aka ‘boxes’). While software powered these systems, the software functioned more like firmware and was not easy to abstract and run on multiple platforms in virtual environments.
 
 This fostered a “top-down” approach to telecommunications systems that were imperative rather than declarative. This approach was exceptionally resource intensive and expensive; redundancy literally meant acquiring multiple physical instances of required systems. Not surprisingly, this guiding architectural decision encouraged the tight bundling of numerous services and capabilities into individual physical systems. This resulted not only in inflated infrastructure and provisioning costs but also inefficient hyper-redundancy in system engineering for overlapping capabilities.
 
