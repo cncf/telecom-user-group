@@ -3,11 +3,13 @@
 All essential information on the ongoing work for the Telco User Group White Paper.
 
 
-# Document
+# Documents
 
-There is a WIP document where the intended scope is summarized, and we collect contributions on the different topics. You can access [the document via this link](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing) (Google Docs).
 
-The draft of chapter 1 of the Telco User Group White can be [accessed via this link](https://docs.google.com/document/d/1LO6G4sWHJKKW77z7gj2Aqt3IF3dRJL5q6Q1wXI4Kj8g/edit?pli=1#heading=h.mk8qm2iyy17n) (Google Docs).
+The [chapter 1 of Cloud Native Thinking for Telecommunications](https://github.com/cncf/telecom-user-group/blob/master/whitepaper/chapter01.md) is available in this repo [based on an older Google Doc version](https://docs.google.com/document/d/1LO6G4sWHJKKW77z7gj2Aqt3IF3dRJL5q6Q1wXI4Kj8g/edit?pli=1#heading=h.mk8qm2iyy17n)
+
+Another [WIP doc](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing) withintended scope is summarized, and we collect contributions on the different topis is available as well.
+
 
 # Contributing and commenting
 * Anyone can comment
