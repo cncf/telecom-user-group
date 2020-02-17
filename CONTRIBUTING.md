@@ -12,7 +12,7 @@
 ### Issues
 
 - **Anyone** can create an issue here: [TUG Issues](https://github.com/cncf/telecom-user-group/issues)
-- The TUG repository owners can label issues and assign them to other contributors, or to return it to the originator for more information
+- The document owners can label issues and assign them to other contributors, or to return it to the originator for more information
 - All issues must be clearly titled, described, and tagged with the right labels when created
 
 <!--
@@ -23,7 +23,7 @@ Potential addition: list the labels used and what they mean (or, make them obvio
 ### Pull Requests
 
 - *Anyone* can create a Pull Request (PR) here: [TUG Pull Requests]()
-- PRs *must* only be created when there is an issue present and a decision to create a PR is agreed with the repository owners
+- PRs *must* only be created when there is an issue present and a decision to create a PR is agreed with the document owners
 - A PR *must* reference the issue it is resolving into the description field
   - Note, using one of the [GitHub keywords](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) will automatically close the issue which the PR is resolving when it is merged
 - A PR *should* be modified be just one person unless permission is given to other contributors by the original PR author
