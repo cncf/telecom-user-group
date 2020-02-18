@@ -59,11 +59,11 @@ For those new to Git:
   - Active contributors to that document
   - Document / repository owners
   - 2 business days cool off period should be applied before Final approval
-  - Final Approval by the Editor (@ASalkever)
+  - Final Approval by an Editor (e.g. @ASalkever)
 - Only one approval will be counted per each organization for a given PR
 - The selection of which contributor to approve a PR is made by the document owner and should take those factors into consideration:
   - Contributor needs to be actively discussing the PR to be selected for approval
-- PRs will be merged automatically online by the Editor (@ASalkever) once consensus is reached and all approvals are receive
+- PRs will be merged automatically online by an Editor (e.g. @ASalkever) once consensus is reached and all approvals are receive
 
 <a name="idle"></a>
 ### Idle Pull Requests Policy
