@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, February 17th at 11:00 AM UTC (7:00 PM China Standard Time)**  
+- **Next zoom call: Monday, March 2nd at 4:00 PM UTC (8:00 AM Pacific Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -33,20 +33,17 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### TUG + CNFs At Mobile World Congress - Barcelona, Spain
-
-Monday, February 24 • 19:00 - 21:00pm - Linux Foundation/CNCF/LF Networking/Hyperledger reception
-
-
 ### TUG + CNFs At KubeCon + CloudNativeCon EU 2020
 
 Tuesday, March 31 • 15:30 - 16:05pm - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
 
-Thursday, April 2 • 16:35 - 17:10pm - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
+Wednesday, April 1 • 16:25 - 17:55pm - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 
 ### TUG + CNFs At Open Networking & Edge Summit NA 2020
 [TBD](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
+
+April 22-23 2020 - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
 
 
 ## Past Events:
