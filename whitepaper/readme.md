@@ -2,9 +2,22 @@
 
 All essential information on the ongoing work for the Telco User Group White Paper.
 
-# Document
 
-There is a WIP document where the intended scope is summarized, and we collect contributions on the different topics. You can access  [the document via this link](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing) (Google Docs).
+# Documents
+
+
+The [chapter 1 of Cloud Native Thinking for Telecommunications](https://github.com/cncf/telecom-user-group/blob/master/whitepaper/chapter01.md) is available in this repo [based on an older Google Doc version](https://docs.google.com/document/d/1LO6G4sWHJKKW77z7gj2Aqt3IF3dRJL5q6Q1wXI4Kj8g/edit?pli=1#heading=h.mk8qm2iyy17n)
+
+Another [WIP doc](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing) withintended scope is summarized, and we collect contributions on the different topis is available as well.
+
+
+# Contributing and commenting
+* Anyone can comment
+* To suggest (or change) a new topic please comment the **Chapter Overview**
+* To contribute:
+	* Comment the *List of Contributors* chapter with your name, e-mail address and company (optional).
+	* Once you got editing rights from an editor, mark the chapter you want to contribute to with **[your name in brackets with yellow outline]** and enter your input under **Contributions**. Mark up to 2 chapters - for now.
+* Please **do not** directly edit **Chapter Overview**: leave your comment and once consensus is reached an editor will make the necessary changes.
 
 # Contributing and commenting
 Please see the [contribution guidelines](../CONTRIBUTING.md).
