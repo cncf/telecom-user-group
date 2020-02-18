@@ -12,14 +12,6 @@ Another [WIP doc](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3Pcm
 
 
 # Contributing and commenting
-* Anyone can comment
-* To suggest (or change) a new topic please comment the **Chapter Overview**
-* To contribute:
-	* Comment the *List of Contributors* chapter with your name, e-mail address and company (optional).
-	* Once you got editing rights from an editor, mark the chapter you want to contribute to with **[your name in brackets with yellow outline]** and enter your input under **Contributions**. Mark up to 2 chapters - for now.
-* Please **do not** directly edit **Chapter Overview**: leave your comment and once consensus is reached an editor will make the necessary changes.
-
-# Contributing and commenting
 Please see the [contribution guidelines](../CONTRIBUTING.md).
 
 # Meetings and review procedures
