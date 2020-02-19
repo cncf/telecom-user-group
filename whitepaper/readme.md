@@ -19,4 +19,8 @@ The official meeting to discuss everything around the WP is the [regular Zoom ca
 
 Please see the [contribution guidelines](../CONTRIBUTING.md) for details on the review/approvals process.
 
+# License
+The whitepapers in this repository is available under the Apache License, Version 2.0. The whitepapers are alternatively available under the Creative Commons Attribution 4.0 license.
+
 # Questions
+
