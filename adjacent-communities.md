@@ -11,8 +11,9 @@ CNTT was started by telecom operators and they are engaged for the standardizati
 - [Homepage](https://github.com/cntt-n/CNTT)
 - [List of online meetings](https://github.com/cntt-n/CNTT/wiki/Meetings)
 - [Mailing lists](https://github.com/cntt-n/CNTT/wiki/Mailing-Lists)
-- Next face to face meeting
-   - 26-27.09.2019
-   - Antwerp
-   - [Schedule and details](https://wiki.lfnetworking.org/display/LN/CNTT+Developer+F2F+Workshop%2C+Sept+%2719)
+- Next face to face meetings
+  - CNTT Technical F2F Work Shop
+    - April 22-23 2020
+    - Los Angeles CA
+    - [Details](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
 
