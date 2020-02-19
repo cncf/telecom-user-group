@@ -85,3 +85,8 @@ Tuesday, June 25 • 11:20 - 11:55am - [Intro + Deep Dive BoF: Telecom User Grou
 ## Adjacent communities
 
 CNCF TUG works together with lots of other communities. [This](adjacent-communities.md) page lists these communities and ways how to reach them. 
+
+
+## License
+
+The content in this repository including documentation is available under the Apache License, Version 2.0. The documentation is alternatively available under the Creative Commons Attribution 4.0 license.
