@@ -84,7 +84,7 @@ An example of a simple CNF is a packet filter which implements a single piece of
 
 The CNFs themselves, by nature of following cloud native principles, are also composable and can implement and facilitate more complex network functionality if needed.
 
-CNFs and cloud native principles can be used when implementing applications and network infrastructure which needs to meet standards such as [3GPP](https://en.wikipedia.org/wiki/3GPP). For example an [Evolved Packet Core's (EPC)](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)) [Serving Gateway](https://en.wikipedia.org/wiki/System_Architecture_Evolution#SGW_(Serving_Gateway)) could be implemented as a cloud native application and support all 3GPP requirements (eg. S1 protocol stack) allowing integration with other [EPC services](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)).
+CNFs and cloud native principles can be used when implementing applications and network infrastructure which needs to meet standards such as [3GPP](https://en.wikipedia.org/wiki/3GPP). For example an [Evolved Packet Core's (EPC)](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)) [Serving Gateway](https://en.wikipedia.org/wiki/System_Architecture_Evolution#SGW_(Serving_Gateway)) could be implemented as a CNF and support all 3GPP requirements (eg. S1 protocol stack) allowing integration with other [EPC services](https://en.wikipedia.org/wiki/System_Architecture_Evolution#Evolved_Packet_Core_(EPC)).
 
 <a name="1.5"></a>
 ## 1.5 Cloud Native for Telcos
