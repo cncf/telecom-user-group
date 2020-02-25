@@ -1,4 +1,4 @@
-# 1. Cloud Native Thinking for Telecommunications
+# Cloud Native Thinking for Telecommunications
 
 Basic tenets and end users suggestions on how cloud native design and principles can be applied to mission critical telecommunications functions.
 
