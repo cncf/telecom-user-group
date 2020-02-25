@@ -5,11 +5,9 @@ All essential information on the ongoing work for the Telco User Group White Pap
 
 # Documents
 
+A prologue whitepaper, [Cloud Native Thinking for Telecommunications](https://github.com/cncf/telecom-user-group/blob/master/whitepaper/cloud_native_thinking_for_telecommunications.md), is available in this repo [based on an older Google Doc version](https://docs.google.com/document/d/1LO6G4sWHJKKW77z7gj2Aqt3IF3dRJL5q6Q1wXI4Kj8g/edit?pli=1#heading=h.mk8qm2iyy17n)
 
-The [chapter 1 of Cloud Native Thinking for Telecommunications](https://github.com/cncf/telecom-user-group/blob/master/whitepaper/chapter01.md) is available in this repo [based on an older Google Doc version](https://docs.google.com/document/d/1LO6G4sWHJKKW77z7gj2Aqt3IF3dRJL5q6Q1wXI4Kj8g/edit?pli=1#heading=h.mk8qm2iyy17n)
-
-Another [WIP doc](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing) withintended scope is summarized, and we collect contributions on the different topis is available as well.
-
+Another (to be named) whitepaper is available as a [WIP Google Doc](https://docs.google.com/document/d/1-zqxz5bdCLTuOEvi2ybADR3PcmzbBhNt6YkNnvx-KoA/edit?usp=sharing), which has intended scope summarized, many comments and some contributed content in different sections.
 
 # Contributing and commenting
 Please see the [contribution guidelines](../CONTRIBUTING.md).
