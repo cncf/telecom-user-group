@@ -12,8 +12,9 @@
 ### Issues
 
 - **Anyone** can create an issue here: [TUG Issues](https://github.com/cncf/telecom-user-group/issues)
+- Issues can include bugs to be fixed or topics to be agreed
 - The document owners can label issues and assign them to other contributors, or to return it to the originator for more information
-- All issues must be clearly titled, described, and tagged with the right labels when created
+- All issues must be clearly titled and described
 
 <!--
 Potential addition: list the labels used and what they mean (or, make them obvious).
@@ -22,10 +23,8 @@ Potential addition: list the labels used and what they mean (or, make them obvio
 <a name="prs"></a>
 ### Pull Requests
 
-- *Anyone* can create a Pull Request (PR) here: [TUG Pull Requests]()
-- PRs *must* only be created when there is an issue present and a decision to create a PR is agreed with the document owners
-- A PR *must* reference the issue it is resolving into the description field
-  - Note, using one of the [GitHub keywords](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) will automatically close the issue which the PR is resolving when it is merged
+- *Anyone* can create a Pull Request (PR) here: [TUG Pull Requests](https://github.com/cncf/telecom-user-group/pulls)
+    > Note, using one of the [GitHub keywords](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword) will automatically close the issue which the PR is resolving when it is merged
 - A PR *should* be modified be just one person unless permission is given to other contributors by the original PR author
 - A PR *should* only create/modify content within the scope of a single document
 - A PR *should* only add/change content related to the issue associated with the PR
@@ -37,6 +36,11 @@ Potential addition: list the labels used and what they mean (or, make them obvio
 - All changes to existing PRs *shall* be made through subsequent commits
   - **Do not modify an existing commit, create separate commits under the same PR**
   - PRs will be merged using "Squash and Merge" to enforce a linear commit history
+- Break up changes into smaller chunks when possible so the PR review and acceptance is likely to occur sooner
+- If you think there is unlikely to be consensus on a point then feel free to create an issue to discuss further
+- If an existing PR is blocked because a change can't come to consensus open an issue to continue the discussion and see if the other parts of the PR can be accepted.
+- If you want to brainstorm / spec out and idea create an issue
+- If there is an existing issue when a PR is created then reference the issue
 
 For those familiar with Git:
 - Create a local fork
