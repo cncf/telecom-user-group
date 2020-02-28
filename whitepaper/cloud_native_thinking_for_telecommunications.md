@@ -80,7 +80,7 @@ Cloud native applications consist of sets of cloud native microservices. The con
 <a name="1.4"></a>
 ## 1.4 Cloud Native Network Functions
 
-A cloud native network function (CNF) is a cloud native application that implements or facilitates network functionality. A CNF consists of one or more microservices, and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs, and a “repeatable deployment process”.
+A cloud native network function (CNF) is a cloud native application that implements network functionality. A CNF consists of one or more microservices, and has been developed using Cloud Native Principles including immutable infrastructure, declarative APIs and a “repeatable deployment process”.
 
 An example of a simple CNF is a packet filter that implements a single piece of network functionality as a microservice. A firewall is an example of a CNF which may be composed of more than one microservice (i.e. encryption, decryption, access lists, packet inspection, etc...).
 
