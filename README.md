@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, March 2nd at 4:00 PM UTC (8:00 AM Pacific Time)**  
+- **Next zoom call: Monday, March 16th at 11:00AM UTC (7:00PM China Standard Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -33,17 +33,17 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### TUG + CNFs At KubeCon + CloudNativeCon EU 2020
+### TUG + CNFs At KubeCon + CloudNativeCon EU 2020 (Postponed)
 
-Tuesday, March 31 • 15:30 - 16:05pm - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
+TBD - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
 
-Wednesday, April 1 • 16:25 - 17:55pm - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
+TBD - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 
-### TUG + CNFs At Open Networking & Edge Summit NA 2020
+### TUG + CNFs At Open Networking & Edge Summit NA 2020 (Postponed)
 [TBD](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
-April 22-23 2020 - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
+TBD - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
 
 
 ## Past Events:
