@@ -3,7 +3,7 @@
 
 ## Meeting Time
 
-CNCF's Telecom User Group on the first Monday of the month at 4:00PM UTC (8:00AM Pacific Time) and the third Monday of the month at 11:00AM UTC (7:00PM China Standard Time)
+CNCF's Telecom User Group on the first Monday of the month at 3:00PM UTC (8:00AM Pacific Time) and the third Monday of the month at 11:00AM UTC (7:00PM China Standard Time)
 
 Join Zoom Meeting:  https://zoom.us/j/297749799
 
@@ -17,7 +17,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, March 16th at 11:00AM UTC (7:00PM China Standard Time)**  
+- **Next zoom call: Monday, April 6th at 3:00PM UTC (8:00AM Pacific Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
