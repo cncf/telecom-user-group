@@ -33,17 +33,28 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### TUG + CNFs At KubeCon + CloudNativeCon EU 2020 (Postponed)
+### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
 
-TBD - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
+Friday, August 14 • 15:30 - 16:05 - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
 
-TBD - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
+Saturday, August 15 • 16:25 - 17:55 - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 
-### TUG + CNFs At Open Networking & Edge Summit NA 2020 (Postponed)
-[TBD](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
+### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
+
+Tuesday, September 29 • 2:55pm - 3:25pm - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
 
 TBD - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
+
+
+### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
+TBD
+
+
+### [TUG + CNFs At Open Networking & Edge Summit EU 2020]([Postponed](https://events.linuxfoundation.org/open-networking-edge-summit-europe/))
+
+TBD
 
 
 ## Past Events:
