@@ -33,6 +33,11 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
+### [CNTT April 2020 Virtual Technical Event](https://wiki.lfnetworking.org/display/LN/2020+April+Virtual+Technical+Event)
+
+LFN Technical Meetings Spring 2020, April 21-23
+
+
 ### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
 
 Friday, August 14 • 15:30 - 16:05 - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
