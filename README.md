@@ -33,7 +33,7 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### [TUG + CNFs At Open Source Summit North America 2020)](https://events.linuxfoundation.org/open-source-summit-north-america/)
+### [TUG + CNFs At Open Source Summit North America 2020](https://events.linuxfoundation.org/open-source-summit-north-america/)
 
 Wednesday, July 1 •  3:55pm - 4:45pm - [Testing Cloud Native Principles for Telecom Applications, an Introduction to CNCF Cloud Native Network Function Conformance Testing](https://sched.co/c3VA)
 
@@ -59,7 +59,7 @@ TBD - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNT
 TBD - [CFP closes on Friday, June 12, 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/#general-info)
 
 
-### [TUG + CNFs At Open Networking & Edge Summit EU 2020]([Postponed to Q4 2020](https://events.linuxfoundation.org/open-networking-edge-summit-europe/))
+### [TUG + CNFs At Open Networking & Edge Summit EU 2020](https://events.linuxfoundation.org/open-networking-edge-summit-europe/) - Postponed to Q4 2020
 
 TBD - [CFP closes on Sunday, June 7, 2020](https://events.linuxfoundation.org/open-networking-edge-summit-europe/program/cfp/#overview)
 
