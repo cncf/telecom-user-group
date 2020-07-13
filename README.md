@@ -20,7 +20,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, July 6th at 11:00 UTC (7pm China Standard Time)**  
+- **Next zoom call: Monday, August 3rd at 15:00 UTC (8am Pacific Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -36,35 +36,24 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### [TUG + CNFs At Open Source Summit North America 2020](https://events.linuxfoundation.org/open-source-summit-north-america/)
+### [TUG + CNFs At Cloud Native + Open Source Virtual Summit China 2020](https://cncf.lfasiallc.cn/)
 
-Wednesday, July 1 •  3:55pm - 4:45pm - [Testing Cloud Native Principles for Telecom Applications, an Introduction to CNCF Cloud Native Network Function Conformance Testing](https://sched.co/c3VA)
-
+Saturday, August 1 • 12:10 - 12:40 UTC - [Intro: Birds of a Feather: Telecom User Group](https://sched.co/cpAM)
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
 
-Tuesday, August 18 • 15:30 - 16:05 - [CNF Testbed: Creating a Cloud Native User Plane for an Evolved Packet Core](https://sched.co/ZeuG)
-
-Wednesday, August 19 • 16:25 - 17:55 - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
-
+Wednesday, August 19 • 14:55 - 16:15 UTC - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
-Tuesday, September 29 • 2:55pm - 3:25pm - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
+Tuesday, September 29 • 2:55pm - 3:25pm PT - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
 
-Tuesday, September 29 • 4:35pm - 5:05pm - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
-
-TBD - [CNTT Technical F2F Workshop](https://wiki.lfnetworking.org/display/LN/CNTT+Technical+F2F+Work+Shop%2C+Los+Angeles+CA)
+Tuesday, September 29 • 4:35pm - 5:05pm PT - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
 
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 
-TBD - [CFP closes on Friday, June 12, 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/#general-info)
-
-
-### [TUG + CNFs At Open Networking & Edge Summit EU 2020](https://events.linuxfoundation.org/open-networking-edge-summit-europe/) - Postponed to Q4 2020
-
-TBD - [CFP closes on Sunday, June 7, 2020](https://events.linuxfoundation.org/open-networking-edge-summit-europe/program/cfp/#overview)
+TBD 
 
 
 ## Past Events:
