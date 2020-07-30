@@ -48,7 +48,7 @@ Wednesday, August 19 • 14:55 - 15:30 UTC - [Birds of a Feather: Telecom User G
 
 Wednesday, September 30 • 17:45 - 18:15 UTC - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
 
-Wednesday, September 30 • 17:45pm - 18:15 UTC - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
+Wednesday, September 30 • 17:45 - 18:15 UTC - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
 
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
