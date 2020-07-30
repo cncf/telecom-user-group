@@ -42,13 +42,13 @@ Saturday, August 1 • 12:10 - 12:40 UTC - [Intro: Birds of a Feather: Telecom U
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
 
-Wednesday, August 19 • 14:55 - 16:15 UTC - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
+Wednesday, August 19 • 14:55 - 15:30 UTC - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
-Tuesday, September 29 • 2:55pm - 3:25pm PT - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
+Wednesday, September 30 • 17:45 - 18:15 UTC - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
 
-Tuesday, September 29 • 4:35pm - 5:05pm PT - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
+Wednesday, September 30 • 17:45pm - 18:15 UTC - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
 
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
