@@ -20,7 +20,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, August 3rd at 15:00 UTC (8am Pacific Time)**  
+- **Next zoom call: Monday, September 7th at 11:00 UTC (7pm China Standard Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -36,14 +36,6 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### [TUG + CNFs At Cloud Native + Open Source Virtual Summit China 2020](https://cncf.lfasiallc.cn/)
-
-Saturday, August 1 • 12:10 - 12:40 UTC - [Intro: Birds of a Feather: Telecom User Group](https://sched.co/cpAM)
-
-### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
-
-Wednesday, August 19 • 14:55 - 15:30 UTC - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
-
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
 Wednesday, September 30 • 17:45 - 18:15 UTC - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
@@ -57,6 +49,14 @@ TBD
 
 
 ## Past Events:
+
+### [TUG + CNFs At Cloud Native + Open Source Virtual Summit China 2020](https://cncf.lfasiallc.cn/)
+
+Saturday, August 1 • 12:10 - 12:40 UTC - [Intro: Birds of a Feather: Telecom User Group](https://sched.co/cpAM)
+
+### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
+
+Wednesday, August 19 • 14:55 - 15:30 UTC - [Birds of a Feather: Telecom User Group](https://sched.co/Zevr)
 
 ### [CNTT April 2020 Virtual Technical Event](https://wiki.lfnetworking.org/display/LN/2020+April+Virtual+Technical+Event)
 
