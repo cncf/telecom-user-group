@@ -9,6 +9,7 @@ CNCF's Telecom User Group meets on the first Monday of the month. The meeting ti
 
 
 Join Zoom Meeting:  https://zoom.us/j/297749799
+- Pass code: :seven::two::zero::four::nine::two:
 
 Dial by your location
         +1 669 900 6833 US (San Jose)
