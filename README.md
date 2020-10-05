@@ -21,7 +21,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, October 5th at 15:00 UTC (8am Pacific Time)**  
+- **Next zoom call: Monday, November 2nd at 11:00 UTC**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -37,6 +37,13 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
+### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
+Wednesday, November 18 • 4:55pm - 5:30pm EST - [Intro to CNCF’s Telecom Initiatives](https://sched.co/ekG9)
+
+
+## Past Events:
+
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
 Monday, September 28 • 18:00 - 21:00 UTC - [Tutorial: Cloud Native for Edge and Service Providers - Sponsored by Cloud Native Computing Foundation (Pre-registration Required)](https://sched.co/bWhI)
@@ -44,14 +51,6 @@ Monday, September 28 • 18:00 - 21:00 UTC - [Tutorial: Cloud Native for Edge an
 Wednesday, September 30 • 17:45 - 18:15 UTC - [Birds of a Feather: CNCF Telecom User Group](https://sched.co/bWQV)
 
 Wednesday, September 30 • 17:45 - 18:15 UTC - [Panel Discussion: Cloud Native Thinking for Telecommunications Chapter 1](https://sched.co/bWQh)
-
-
-### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-
-TBD - Schedule Announcement: Thursday, October 1, 2020
-
-
-## Past Events:
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon EU 2020](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2020/)
 
