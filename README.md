@@ -4,7 +4,7 @@
 ## Meeting Time
 
 CNCF's Telecom User Group meets on the first Monday of the month. The meeting time switches monthly between:
-- 15:00 UTC (8am Pacific Time)
+- 15:00 UTC (7am Pacific Time)
 - 11:00 UTC (7pm China Standard Time)
 
 
