@@ -21,7 +21,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, January 4th at 11:00 UTC**  
+- **Next zoom call: Monday, February 1st at 15:00 UTC**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -37,12 +37,17 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
+### [TUG + CNFs At KubeCon + CloudNativeCon EU 2021 Virtual](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+
+TBD: May 4 - 7, 2021
+
+
+## Past Events:
+
 ### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 
 Wednesday, November 18 • 4:55pm - 5:30pm EST - [Intro to CNCF’s Telecom Initiatives](https://sched.co/ekG9)
 
-
-## Past Events:
 
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
 
