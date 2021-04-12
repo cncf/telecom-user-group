@@ -21,7 +21,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, April 5th at 15:00 UTC**  
+- **Next zoom call: Monday, June 7th at 15:00 UTC**  (May's meeting is canceled due to conflict with [KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/))
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
