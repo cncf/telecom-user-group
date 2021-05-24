@@ -21,7 +21,8 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, April 5th at 15:00 UTC**  
+- **Next zoom call: Monday, June 7th at 15:00 UTC (8am Pacific Daylight Time)**  
+        - May 3rd TUG meeting was canceled due to conflicts with KubeCon EU
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -37,19 +38,24 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 
 ## Upcoming Events: 
 
-### [TUG + CNFs At KubeCon + CloudNativeCon EU 2021 Virtual](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
-
-[CNF WG: K8s Best Practices for Telco Apps](https://sched.co/iE74) at KubeCon EU 2021
-- Thursday, May 6 at 11:30 - 12:05 UTC
-- [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/)
-
-
+### [TUG + CNFs At KubeCon + CloudNativeCon NA 2021 Virtual/Los Angeles](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- TBD
+- [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
 ## Past Events:
 
+### [TUG + CNFs At KubeCon + CloudNativeCon EU 2021 Virtual](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
+
+[CNF WG: K8s Best Practices for Telco Apps](https://sched.co/iE74) 
+- Thursday, May 6 at 11:30 - 12:05 UTC
+- [Recording](https://youtu.be/ZF5UJD7YJIw)
+
+
 ### [TUG + CNFs At KubeCon + CloudNativeCon NA 2020](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 
-Wednesday, November 18 • 4:55pm - 5:30pm EST - [Intro to CNCF’s Telecom Initiatives](https://sched.co/ekG9)
+[Intro to CNCF’s Telecom Initiatives](https://sched.co/ekG9)
+- Wednesday, November 18 at 4:55pm - 5:30pm EST 
+- [Recording](https://youtu.be/IEmzRqqNWCs)
 
 
 ### [TUG + CNFs At Open Networking & Edge Summit NA 2020](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/)
