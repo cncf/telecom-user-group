@@ -21,8 +21,8 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, June 7th at 15:00 UTC (8am Pacific Daylight Time)**  
-        - May 3rd TUG meeting was canceled due to conflicts with KubeCon EU
+- **Next zoom call: Monday, August 2nd at 15:00 UTC (8am Pacific Daylight Time)**  
+        - July 5th TUG meeting was canceled due to US Independence Day (observed federal holiday)
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
