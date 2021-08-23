@@ -21,8 +21,8 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, August 2nd at 15:00 UTC (8am Pacific Daylight Time)**  
-        - July 5th TUG meeting was canceled due to US Independence Day (observed federal holiday)
+- **Next zoom call: Monday, October 4th at 15:00 UTC (8am Pacific Daylight Time)**  
+        - September 6th TUG meeting was canceled due to US Labor Day (observed federal holiday)
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
