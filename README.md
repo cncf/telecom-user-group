@@ -21,8 +21,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, October 4th at 15:00 UTC (8am Pacific Daylight Time)**  
-        - September 6th TUG meeting was canceled due to US Labor Day (observed federal holiday)
+- **Next zoom call: Monday, November 1st at 11:00 UTC (7pm China Standard Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
@@ -37,12 +36,21 @@ TUG meeting recordings are available on [CNCF's YouTube Channel](https://www.you
 [https://slack.cncf.io/](https://slack.cncf.io/) - #tug
 
 ## Upcoming Events: 
+- TBA
 
-### [TUG + CNFs At KubeCon + CloudNativeCon NA 2021 Virtual/Los Angeles](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
-- TBD
-- [Register](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 
 ## Past Events:
+### [TUG + CNFs At KubeCon + CloudNativeCon NA 2021 Virtual/Los Angeles](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+
+[Intro & Deep Dive to the CNF WG](https://kccncna2021.sched.com/event/lV9e)
+*  Friday, October 15 • 5:25pm - 6:00pm PDT
+
+
+### [TUG + CNFs At Open Networking and Edge Summit NA 2021 Virtual](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/schedule/)
+
+[CNF WG BoF: Bring Your Networking Challenge, We’ll Find a Cloud Native Best Practice](https://sched.co/og1s)
+*  Tuesday, October 12 • 12:00pm - 12:30pm PDT
+
 
 ### [TUG + CNFs At KubeCon + CloudNativeCon EU 2021 Virtual](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
