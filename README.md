@@ -4,7 +4,7 @@
 ## Meeting Time
 
 CNCF's Telecom User Group meets on the first Monday of the month. The meeting time switches monthly between:
-- 15:00 UTC (7am Pacific Standard Time)
+- 15:00 UTC (8am Pacific Daylight Time)
 - 11:00 UTC (7pm China Standard Time)
 
 
@@ -21,7 +21,7 @@ Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
 
-- **Next zoom call: Monday, February 7th, 2022 at 15:00 UTC (7am Pacific Standard Time)**  
+- **Next zoom call: Monday, August 1st, 2022 at 15:00 UTC (8am Pacific Daylight Time)**  
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
