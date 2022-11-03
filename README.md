@@ -1,8 +1,14 @@
 # Telecom User Group
 📞📱☎️Public info for the CNCF Telecom User Group
 
+_Note:_ <Br />
+Activities have moved to the [CNF Certification Program](https://github.com/cncf/cnf-certification/#cnf-certification---v11-beta), [CNF Working Group (WG)](https://github.com/cncf/cnf-wg#cloud-native-network-function-working-group-cnf-wg) and [CNF Test Suite](https://github.com/cncf/cnf-testsuite#cnf-test-suite).  The CNF WG is focused on documenting use cases, user stories, and best practices. The CNF Test Suite provides a framework and a suite of tests for validating best practices of workloads running on K8s.
+
 ## Meeting Time
 
+Meetings are currently in hiatus.  Please see the [CNF WG](https://github.com/cncf/cnf-wg#cloud-native-network-function-working-group-cnf-wg) and [CNF Test Suite](https://github.com/cncf/cnf-testsuite#cnf-test-suite) for active CNCF telecom meetings.
+
+<!--
 CNCF's Telecom User Group meets on the first Monday of the month. The meeting time switches monthly between:
 - 15:00 UTC (7am Pacific Standard Time)
 - 11:00 UTC (7pm China Standard Time)
@@ -20,6 +26,7 @@ Dial by your location
 Meeting ID: 297 749 799
 
 Find your local number: https://zoom.us/u/acX94Wyyaj
+--> 
  
 ## Meeting Minutes
 Upcoming and past meeting agenda/notes are [available](https://docs.google.com/document/d/1yhtI7aiwpdAiRBKyUX6mOJDHAbjOog2mI4Ur2k27D7s/edit#)
